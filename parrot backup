@@ -1,0 +1,38 @@
+Linux recovery guide and settup
+
+Rewatch i3 config video 1-3
+install list
+-anything in the i3 config some things may have to be changed 
+-discord
+-feh
+-brave
+-compton
+-i3lock
+-i3blocks and it's config file at /home/jollyl/i3blocks.conf
+- probably should go for a better network manager 
+-pactl pulse audio
+-spotify 
+-gmrun
+-scrot
+-bitwarden
+-
+-
+-
+-
+-
+
+-
+-
+-
+-
+
+-
+-
+-
+-
+-
+
+-
+-
+-
+-
